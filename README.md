@@ -3,7 +3,7 @@
 ## About / Synopsis
 
 * This is a model that is used for classificiation of Numbers from  0 to 9 created using convolutional neural networks in Pytorch.
-* Project status: working/Model is getting optimized for the best performance
+* Project status: working/Model is getting optimized to make input handwritten data.
 
 
 ## Table of contents
