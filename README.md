@@ -37,13 +37,13 @@ Trained model is trained with batch size of 10 so the final accuracy can further
 
 ### Requirements
 It requires minimum of the following versions to run the file.
- * jupyter version -->> 1.0.0
- * torch version -->> 1.4.0
- * torchvision -->> 0.5.0
- * matplotlib version -->> 3.1.2
+ * jupyter 1.0.0
+ * torch 1.4.0
+ * torchvision 0.5.0
+ * matplotlib version 3.1.2
 
 Optional requirements to view the images 
- * numpy -->> 1.20.3 
+ * numpy 1.20.3 
  * PIL 1.1. 7
 
 
