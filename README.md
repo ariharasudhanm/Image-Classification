@@ -48,4 +48,4 @@ Optional requirements to view the images
 
 
 ### Limitations
-Images with two consecutive numbers cannot be calssified and requires network to be optimized accordingly, currently it needs batch data of images and tensors of values ranging from 0 to 9 as a input to run the model but currently working on model to use handwritten data as a input.
+Images with two consecutive numbers cannot be calssified and requires network to be optimized accordingly, currently it needs batch data of images and tensors of values ranging from 0 to 9 as a input data to run the model but currently working on model to use handwritten data as a input.
