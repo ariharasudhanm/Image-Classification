@@ -28,7 +28,7 @@ It is used to classify images from 0 to 9.
 It can identify images of complex forms and irregular shapes.
 
 ### Features
-* Usually image classification is traines using neural networks but in order to identify the images of complex forms and improper shapes, since CNN can surplus   amount of features and match it all over end to end of an image.
+* Usually image classification is trained using neural networks but in order to identify the images of complex forms and improper shapes, since CNN can surplus   amount of features and match it all over end to end of an image.
 
 * It is trained using Adadelta optimizer to get the better accuracy since it restricts the large scale of past accumulated gradients and doesn't requires a default learning rate.
 
