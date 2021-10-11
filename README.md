@@ -36,7 +36,7 @@ It can identify images of complex forms and irregular shapes.
 Trained model is trained with batch size of 10 so the final accuracy can further be increased to a certain level depending on the optimizer.
 
 ### Requirements
-It requires minimum of the following versions to run the file.
+I personally used the following versions of the libraries.
  * jupyter 1.0.0
  * torch 1.4.0
  * torchvision 0.5.0
